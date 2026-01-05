@@ -23,9 +23,13 @@ I enjoy solving problems, learning new technologies, and building products that 
 **Backend:**  
 - Node.js  
 - Express.js  
+- Nest.js  
 
 **Database:**  
 - MongoDB  
+- MySQL
+- TypeORM
+- SequlizeORM  
 
 **Tools & Others:**  
 - Git & GitHub  
@@ -43,13 +47,7 @@ I enjoy solving problems, learning new technologies, and building products that 
 
 ---
 
-## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
 
 ## 📫 Connect With Me  
 
